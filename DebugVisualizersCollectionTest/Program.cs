@@ -15,6 +15,10 @@ namespace DebugVisualizersCollectionTest
 
             Color[] colors = new Color[] { Color.Aqua, Color.Beige, Color.Firebrick, Color.FromArgb(23, 127, 253)};
 
+            List<Color> colorsList = new List<Color>() { Color.Aqua, Color.Beige, Color.Firebrick, Color.FromArgb(23, 127, 253) };
+
+            Font font = new Font("Verdana", 12, FontStyle.Bold);
+
 
         }
     }
